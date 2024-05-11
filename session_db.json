@@ -1,0 +1,23 @@
+{
+  "sessions": [
+    {
+      "id": "6603925527:6603925527",
+      "data": {
+        "__scenes": {},
+        "role": "user",
+        "request": [
+          "24 |",
+          "React",
+          "Krutix asdhjasjdasd"
+        ]
+      }
+    },
+    {
+      "id": "1406351474:1406351474",
+      "data": {
+        "__scenes": {},
+        "role": "admin"
+      }
+    }
+  ]
+}
